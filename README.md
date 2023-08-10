@@ -1,2 +1,0 @@
-# reciclica-app
-Recycling app
